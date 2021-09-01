@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">FTOUCH</string>
+
+    <!--    디자인할때 표시할 디폴트 글자    -->
+    <string name="default_text">-</string>
+
+    <!--    Activity    -->
+    <string name="activity_title_main">FTOUCH</string>
+    <string name="activity_title_app_list">앱목록</string>
+    <string name="activity_title_app_add">앱등록</string>
+    <string name="activity_title_app_edit">앱수정</string>
+
+
+    <!--    Menu    -->
+    <string name="menu_logout">로그아웃</string>
+
+    <!--    Message    -->
+    <string name="msg_back_press_end">\'뒤로\' 버튼을 한번 더 누르면 종료됩니다.</string>
+    <string name="msg_phone_number_check_empty">휴대번호를 입력하세요.</string>
+    <string name="msg_phone_number_check_wrong">휴대번호 형식이 올바르지 않습니다.</string>
+    <string name="msg_user_name_check_empty">이름을 입력하세요.</string>
+    <string name="msg_password_check_empty">비밀번호를 입력하세요.</string>
+    <string name="msg_password_check_length">비밀번호를 6자리 이상 입력하세요.</string>
+    <string name="msg_password_check_confirm">비밀번호를 확인하세요.</string>
+    <string name="msg_phone_number_check_overlap">동일한 휴대번호가 존재합니다.</string>
+    <string name="msg_login_user_none">등록된 회원이 없습니다.</string>
+    <string name="msg_login_password_wrong">비밀번호가 틀립니다.</string>
+    <string name="msg_app_select_empty">앱을 선택하세요.</string>
+    <string name="msg_touch_count_empty">터치수를 설정하세요.</string>
+    <string name="msg_touch_count_check_overlap">터치수가 같은 앱이 있습니다.</string>
+    <string name="msg_app_empty">설정된 앱이 없습니다.</string>
+    <string name="msg_app_not_installed">앱이 설치되지 않았습니다.</string>
+    <string name="msg_listener_error">수신대기중 장애가 발생했습니다.</string>
+    <string name="msg_error">일시적인 장애가 발생했습니다.</string>
+
+    <!--    Dialog    -->
+    <string name="dialog_title_play_store">플레이스토어</string>
+    <string name="dialog_msg_play_store">플레이스토어로 이동하시겠습니까?</string>
+    <string name="dialog_title_logout">로그아웃</string>
+    <string name="dialog_title_app_edit">앱 수정</string>
+    <string name="dialog_title_app_delete">앱 삭제</string>
+    <string name="dialog_msg_logout">로그아웃 하시겠습니까?</string>
+    <string name="dialog_msg_app_edit">변경된 내용을 저장하시겠습니까?</string>
+    <string name="dialog_msg_app_delete">앱을 삭제하시겠습니까?</string>
+    <string name="dialog_ok">확인</string>
+    <string name="dialog_cancel">취소</string>
+    <string name="dialog_allow">수락</string>
+    <string name="dialog_deny">거부</string>
+
+    <string name="permission_rationale_app_use">앱을 이용하기 위해 권한이 필요합니다.</string>
+</resources>

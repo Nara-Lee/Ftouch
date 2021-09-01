@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678090788172",
+    "firebase_url": "https://ftouch-4bdf1.firebaseio.com",
+    "project_id": "ftouch-4bdf1",
+    "storage_bucket": "ftouch-4bdf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678090788172:android:60861a1b2183410f1c13e9",
+        "android_client_info": {
+          "package_name": "com.project.ftouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678090788172-7459h9i3tds07q050phjo1ra4drkb34v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP9U5r6VTg0_RGalLp3osG7Kg9JSw06V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678090788172-7459h9i3tds07q050phjo1ra4drkb34v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
